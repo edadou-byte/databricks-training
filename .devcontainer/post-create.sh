@@ -152,3 +152,6 @@ echo "   jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root"
 echo ""
 echo "🌐 Jupyter Lab sera accessible sur : http://localhost:8888"
 echo "🔥 Spark UI sera accessible sur : http://localhost:4040"
+
+echo "Démarrage de Jupyter Lab"
+jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
