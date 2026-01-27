@@ -1,0 +1,1001 @@
+date,mobile_device_brand,mobile_device_os,credit_card_type,currency
+2025-04-07,Gionee,"Android 5.1, Amigo 3.1",china-unionpay,Yuan Renminbi
+2025-07-03,Honor,"Android 10, Magic UI 3.1",mastercard,Zloty
+2025-07-11,Samsung,Android 1.5/ 2.1,switch,Ruble
+2025-07-27,Philips,Feature phone,bankcard,Zloty
+2025-04-01,Motorola,Android 8.0,jcb,Franc
+2025-03-15,BLU,Android 5.0,jcb,Yuan Renminbi
+2025-02-13,Asus,Feature phone,jcb,Yuan Renminbi
+2025-12-17,Samsung,"Android 6.0.1, up to 7.1.1",jcb,Naira
+2025-06-23,ZTE,Android 4.4.2,jcb,Baht
+2025-06-30,Asus,Android 4.0,jcb,Zloty
+2025-12-23,LG,Android 4.4.2,visa,Franc
+2025-02-02,BenQ,Feature phone,jcb,Yuan Renminbi
+2025-12-29,Plum,Android 6.0,mastercard,Baht
+2025-10-30,Celkon,Android 4.4.2,switch,Peso
+2025-04-04,LG,Feature phone,mastercard,Yuan Renminbi
+2025-05-12,Samsung,"Android 9.0, up to Android 10, One UI 2.0",diners-club-enroute,Yuan Renminbi
+2025-12-27,vivo,"Android 8.1, Funtouch 4.5",jcb,Cedi
+2025-02-04,ZTE,"Android 6.0, MiFavor UI",jcb,Rupiah
+2025-10-09,Samsung,Android 2.2,visa-electron,Euro
+2025-12-31,Allview,Android 5.1,americanexpress,Dong
+2025-12-09,Karbonn,Feature phone,jcb,Real
+2025-05-18,Karbonn,Android 4.0,jcb,Rial
+2025-01-25,Wiko,Android 5.0,visa,Yuan Renminbi
+2025-03-26,Huawei,"Android 2.1, up to 2.2",maestro,Yuan Renminbi
+2026-01-13,Sony,Feature phone,jcb,Peso
+2025-10-25,Huawei,"Android 10, EMUI 10, no Google Play Services",jcb,Zloty
+2025-10-25,Micromax,Feature phone,visa-electron,Rupiah
+2025-12-29,Motorola,Feature phone,jcb,Peso
+2025-10-17,Siemens,Feature phone,jcb,Hryvnia
+2025-04-19,alcatel,Android 8.1,jcb,Euro
+2025-06-02,Kyocera,Android 2.3,jcb,Rupiah
+2025-10-04,Micromax,Android 5.1,jcb,Yuan Renminbi
+2025-11-16,Ericsson,Feature phone,diners-club-us-ca,Yuan Renminbi
+2025-08-04,Acer,Microsoft Windows 10,jcb,Euro
+2025-08-11,Micromax,Microsoft Windows Phone 8.1,americanexpress,Yuan Renminbi
+2025-04-17,Samsung,Feature phone,laser,Shilling
+2025-02-11,Qtek,Microsoft Windows Mobile 5.0 Smartphone,jcb,Peso
+2025-11-27,Vodafone,Feature phone,diners-club-us-ca,Real
+2025-01-26,Micromax,Feature phone,jcb,Rial
+2025-09-02,Nokia,Feature phone,instapayment,Krona
+2025-05-07,Samsung,Android 4.2.2,diners-club-carte-blanche,Rupiah
+2025-04-03,Mitsubishi,Feature phone,jcb,Lek
+2025-12-12,alcatel,Android 4.4.2,solo,Sol
+2025-01-28,Energizer,Android 6.0,jcb,Peso
+2026-01-03,Kyocera,Feature phone,americanexpress,Yuan Renminbi
+2025-05-07,Wiko,Android 8.1,mastercard,Peso
+2025-04-25,BenQ-Siemens,Feature phone,mastercard,Rupiah
+2025-02-21,Sony,"Android 2.3, up to 4.0.4",jcb,Rupiah
+2026-01-11,Sony,Feature phone,jcb,Peso
+2025-03-19,Samsung,Feature phone,jcb,Ruble
+2025-09-14,T-Mobile,"Android 1.5, Sense UI",mastercard,Hryvnia
+2025-06-09,Spice,Android 4.2,visa-electron,Krona
+2025-02-02,Sewon,Feature phone,jcb,Zloty
+2025-11-09,NEC,Android 4.0,jcb,Euro
+2026-01-02,Maxwest,Android 5.1,jcb,Euro
+2025-11-13,Icemobile,Feature phone,switch,Rial
+2025-01-27,Meizu,"Android 9.0, Flyme 7.2",visa-electron,Balboa
+2025-07-09,QMobile,Android 5.0,jcb,Zloty
+2025-02-09,Allview,Android 4.0.4,china-unionpay,Tugrik
+2025-05-05,Motorola,"Android 7.1.1, up to Android 9.0",jcb,Euro
+2025-03-27,Samsung,Android 4.4.4,americanexpress,Dinar
+2025-03-28,BLU,"Android 4.4.2, up to 5.0",jcb,Euro
+2025-12-06,XOLO,"Android 4.4.2, up to 5.0",bankcard,Peso
+2025-03-26,Asus,"Android 7, ZenUI 3",jcb,Koruna
+2025-05-01,Samsung,Feature phone,jcb,Euro
+2025-12-09,LG,"Android 4.1.2, up to 4.4.2, LG Optimus UI 3",jcb,Rupiah
+2025-07-22,Sony,Feature phone,jcb,Rupiah
+2025-04-06,Nokia,"Symbian OS 9.1, Series 60 UI",jcb,Peso
+2025-01-26,Sagem,Feature phone,jcb,Real
+2025-10-03,Allview,Android 8.1 Oreo,jcb,Rand
+2025-09-15,Wiko,Android 6.0,visa-electron,Ruble
+2025-04-18,Ulefone,Android 10,jcb,Yuan Renminbi
+2025-05-27,ZTE,"Android 9.0, MiFavor 9.1",jcb,Pound
+2025-12-02,Yezz,Android 8.1 Oreo,mastercard,Koruna
+2025-10-14,vivo,"Android 7.1.2, Funtouch 3.2",switch,Rupiah
+2025-02-03,Samsung,Android 2.2.2,bankcard,Yuan Renminbi
+2025-12-03,BLU,Android 5.1,bankcard,Rupiah
+2025-05-10,Lava,Android 8.1 Oreo,diners-club-enroute,Rupiah
+2025-06-12,alcatel,Feature phone,mastercard,Rupiah
+2025-11-09,Lava,Android 5.1,jcb,Kina
+2025-12-02,LG,"Android 4.1.2, LG Optimus UI 3",jcb,Krona
+2025-08-18,Motorola,Android 2.3,diners-club-enroute,Dirham
+2025-12-08,Karbonn,Android 2.3,jcb,Euro
+2026-01-21,Samsung,Tizen 2.4,china-unionpay,Peso
+2025-04-01,ZTE,Android 4.0,instapayment,Peso
+2025-10-13,Sharp,Android 6.0,americanexpress,Dong
+2025-10-07,Samsung,Feature phone,maestro,Hryvnia
+2025-11-28,Qtek,Microsoft Windows Mobile 5.0 Smartphone,jcb,Baht
+2025-10-22,HTC,"Android 4.0.4, up to 4.1.2, Sense UI",bankcard,Yuan Renminbi
+2025-11-08,Samsung,"Android 5.0, up to 6.0.1",jcb,Peso
+2025-06-18,Oppo,Android 4.0.4,mastercard,Euro
+2026-01-14,Sony,"Android 3.2, up to 4.0",diners-club-us-ca,Rupiah
+2025-05-13,Pantech,Android 4.0,jcb,Yuan Renminbi
+2025-11-17,BLU,Feature phone,jcb,Baht
+2025-04-08,Motorola,Android 8.0,china-unionpay,Real
+2025-12-28,Motorola,Linux / Java-based MOTOMAGX,visa-electron,Lev
+2025-02-04,Motorola,"Android 9.0, up to Android 10",diners-club-carte-blanche,Yuan Renminbi
+2026-01-07,Infinix,"Android 8.1, Android One",americanexpress,Yuan Renminbi
+2025-05-21,Bird,Feature phone,jcb,Euro
+2025-09-19,Meizu,"Android 7.1.2, Flyme 7",switch,Yuan Renminbi
+2025-09-29,Nokia,"Android 7.0, up to Android 9.0",instapayment,Ruble
+2025-07-26,Celkon,Feature phone,jcb,Peso
+2025-08-17,BLU,Android 6.0,visa-electron,Dollar
+2025-12-05,Apple,"iOS, up to iOS 4.2.1",americanexpress,Rupiah
+2025-02-19,O2,Feature phone,jcb,Yuan Renminbi
+2025-05-18,Samsung,Feature phone,jcb,Balboa
+2025-07-08,Amoi,Feature phone,americanexpress,Rupiah
+2025-11-13,ZTE,Android 4.2.1,mastercard,Peso
+2025-08-05,vivo,"Android 9.0, up to Android 10, Funtouch 10",bankcard,Yuan Renminbi
+2025-11-16,Nokia,"Symbian OS 9.3, S60 rel. 3.2",visa-electron,Peso
+2025-10-19,Samsung,Feature phone,jcb,Yuan Renminbi
+2025-07-13,vivo,"Android 8.1, Funtouch 4",jcb,Peso
+2025-09-07,BenQ,Microsoft Windows PocketPC 2003 Phone edition,diners-club-carte-blanche,Yen
+2025-07-21,Lava,Android 5.1,jcb,Yuan Renminbi
+2025-10-03,Sony,Feature phone,mastercard,Shilling
+2025-03-16,vivo,"Android 4.4.4, Funtouch 2",visa,Zloty
+2025-09-26,Mitsubishi,Feature phone,jcb,Rand
+2025-11-16,Samsung,Feature phone,maestro,Yuan Renminbi
+2025-05-28,Lenovo,Android 4.0.4,jcb,Marka
+2026-01-05,Yezz,Feature phone,mastercard,Yuan Renminbi
+2025-07-25,Motorola,Android 2.3,diners-club-enroute,Hryvnia
+2025-11-28,Samsung,"Android 4.4.2, TouchWiz UI",mastercard,Marka
+2025-10-11,Qtek,Microsoft Windows Mobile 2003 Smartphone,diners-club-enroute,Euro
+2025-08-24,NEC,Feature phone,diners-club-carte-blanche,Dollar
+2025-08-05,verykool,Feature phone,china-unionpay,Peso
+2025-09-13,alcatel,Feature phone,visa-electron,Baht
+2025-11-13,Asus,"Android 4.4.2, up to 6.0",jcb,Rupiah
+2025-07-08,LG,Feature phone,jcb,Kuna
+2025-03-15,Karbonn,Feature phone,china-unionpay,Rupiah
+2025-03-15,Infinix,"Android 10, XOS 6.0",jcb,Yuan Renminbi
+2025-03-19,HTC,"Android 5, up to 6, Sense UI 7",jcb,Peso
+2025-02-22,Nokia,Feature phone,china-unionpay,Yuan Renminbi
+2025-02-21,Icemobile,Android 4.0,jcb,Yuan Renminbi
+2025-05-22,Huawei,"Android 8.1 Oreo, EMUI 8",jcb,Euro
+2025-03-16,LG,Feature phone,americanexpress,Yuan Renminbi
+2025-08-01,Samsung,Feature phone,mastercard,Sol
+2025-06-30,Micromax,Feature phone,jcb,Leone
+2025-12-19,Sagem,Feature phone,visa-electron,Yuan Renminbi
+2025-12-08,Samsung,"Android 10, One UI 2.5",jcb,Yuan Renminbi
+2026-01-15,VK,Feature phone,americanexpress,Ringgit
+2025-12-29,Intex,Android 5.0,jcb,Rupiah
+2025-07-10,Philips,Feature phone,jcb,Euro
+2025-11-10,Eten,Microsoft Windows Mobile 5.0 PocketPC,mastercard,Krona
+2025-02-12,verykool,Feature phone,jcb,Rupiah
+2025-07-26,Infinix,Android 8.0,jcb,Baht
+2025-11-27,BLU,Android 5.1,americanexpress,Euro
+2025-06-03,Yezz,Android 8.0 Oreo,diners-club-carte-blanche,Euro
+2025-06-29,Huawei,"Android 9.0, EMUI 9.1",jcb,Rupiah
+2025-05-28,Asus,"Android 9.0, up to Android 11, ZenUI",americanexpress,Dollar
+2025-09-05,iNQ,Feature phone,diners-club-carte-blanche,Krona
+2025-08-22,Samsung,Feature phone,mastercard,Euro
+2025-05-07,Samsung,Android 2.3,americanexpress,Zloty
+2025-06-02,Sony,Feature phone,jcb,Euro
+2025-08-12,Motorola,Feature phone,jcb,Yuan Renminbi
+2025-12-20,Lenovo,Android 4.2.2,jcb,Euro
+2025-09-21,Samsung,"Android 3.2, TouchWiz UX UI",maestro,Yuan Renminbi
+2025-04-21,LG,Android 2.3.7,americanexpress,Euro
+2026-01-19,Coolpad,"Android 5.1, Cool UI 8",jcb,Peso
+2025-07-29,Dell,"Android OS 1.6, up to 2.2",jcb,Franc
+2025-03-07,Acer,"Android 4.2.2, up to 4.4.2",visa-electron,Euro
+2025-09-27,Nokia,Feature phone,mastercard,Yuan Renminbi
+2026-01-09,Spice,Feature phone,jcb,Peso
+2025-06-01,Sony,Android 10,jcb,Yuan Renminbi
+2026-01-07,Sagem,Feature phone,china-unionpay,Yuan Renminbi
+2025-06-24,Motorola,Linux,instapayment,Real
+2025-11-12,Huawei,Android 2.3.3,americanexpress,Baht
+2025-10-17,HTC,"Android 5.1.1, Sense UI",jcb,Rupiah
+2025-12-05,Samsung,Android 4.4.4,laser,Ruble
+2025-08-26,Lenovo,Android 4.4.4,jcb,Yuan Renminbi
+2025-07-27,Sony,"Android 9.0, up to Android 11",jcb,Krona
+2025-09-30,Nokia,"Android 9.0, up to Android 11, Android One",maestro,Yuan Renminbi
+2025-03-05,Gionee,"Android 6.0, Amigo 3.2",jcb,Yuan Renminbi
+2025-08-10,Gigabyte,Feature phone,jcb,Dinar
+2025-03-06,BLU,Android 7.0,jcb,Yuan Renminbi
+2025-04-08,Samsung,"Android 9.0, up to Android 10, One UI 2.0",jcb,Euro
+2025-06-27,Toshiba,Microsoft Windows Phone 7.5 Mango,jcb,Yuan Renminbi
+2025-06-21,Samsung,Feature phone,maestro,Rupiah
+2025-09-03,Samsung,"Android 8.0, up to Android 10, One UI 2.0",jcb,Rupiah
+2026-01-16,Oppo,"Android 10, ColorOS 7.2",instapayment,Yuan Renminbi
+2025-04-03,vivo,"Android 10, Funtouch 10",jcb,Ruble
+2025-12-05,Sony,Feature phone,jcb,Peso
+2025-02-20,Haier,Feature phone,china-unionpay,Peso
+2026-01-03,Energizer,Android Go,jcb,Zloty
+2025-03-07,Realme,"Android 10, Realme UI",laser,Euro
+2025-02-07,Samsung,Android 2.3,jcb,Koruna
+2025-11-12,HTC,Android 4.4.2,china-unionpay,Rupiah
+2025-06-09,Micromax,Android 4.4.3,jcb,Dollar
+2025-09-18,Lava,"Android 5.1.1, up to 6.0, Android One",jcb,Boliviano
+2025-12-02,Sharp,Android 4.4.2,maestro,Peso
+2025-08-11,Sagem,Feature phone,laser,Yuan Renminbi
+2025-05-27,NEC,Feature phone,jcb,Tenge
+2025-03-07,Wiko,Android 6.0,diners-club-carte-blanche,Euro
+2025-08-30,Motorola,Linux,jcb,Yuan Renminbi
+2025-02-15,Spice,Android 2.2,jcb,Euro
+2025-02-19,Sony,Android 4.4.2,mastercard,Euro
+2025-02-27,ZTE,Feature phone,laser,Euro
+2025-08-01,Tel.Me.,Feature phone,jcb,Koruna
+2025-05-19,Samsung,Feature phone,mastercard,Real
+2025-02-07,Sharp,Feature phone,jcb,Lev
+2026-01-16,Blackview,Android 7.0,jcb,Peso
+2025-11-16,BLU,Android 5.1,visa,Dollar
+2025-01-22,Samsung,"Android 10, up to Android 11, One UI 3.1",jcb,Dollar
+2025-05-28,Panasonic,Android 4.4.2,china-unionpay,Ruble
+2025-03-21,Telit,Feature phone,maestro,Sol
+2025-03-20,Samsung,"Android 5.0.2, up to 5.1, TouchWiz UI",instapayment,Euro
+2025-03-21,Ulefone,Android 9.0,visa,Yen
+2025-09-09,Lenovo,Android 4.4.2,jcb,Yen
+2025-04-05,ZTE,"Android 10, MiFavor 10",americanexpress,Sol
+2025-03-20,Oppo,"Android 4.4.4, ColorOS 2",mastercard,Yuan Renminbi
+2026-01-19,Acer,Android 5.0,jcb,Yuan Renminbi
+2025-05-31,Celkon,Android 4.4.2,diners-club-enroute,Ruble
+2025-12-13,Wiko,Android 5.0,jcb,Dong
+2025-06-27,Motorola,Android 1.6,jcb,Franc
+2025-02-21,Ericsson,Feature phone,jcb,Yuan Renminbi
+2025-02-22,LG,Android 2.3.6,maestro,Sol
+2025-03-23,Samsung,"Android 2.2, up to 2.3, TouchWiz UI",jcb,Sol
+2025-04-08,Nokia,"Android 9.0, up to Android 11, Android One",jcb,Sol
+2025-05-22,Wiko,Android 5.1,jcb,Yuan Renminbi
+2025-11-06,Samsung,"Android 3.0, TouchWiz UX UI",visa-electron,Rupee
+2026-01-20,ZTE,Android 5.1.1,jcb,Shekel
+2025-11-16,Acer,Android 4.4.2,jcb,Peso
+2025-05-06,Huawei,Android 4.2,diners-club-carte-blanche,Yuan Renminbi
+2025-11-06,Samsung,"Android 9.0, One UI",jcb,Real
+2025-08-23,ZTE,Android 5.0,maestro,Ruble
+2025-06-06,Oppo,"Android 5.1, ColorOS 3",diners-club-enroute,Som
+2026-01-18,Nokia,"Android 8.1, up to Android 10, Android One",jcb,Yuan Renminbi
+2025-04-22,Samsung,Feature phone,jcb,Rial
+2025-06-20,Xiaomi,"Android 10, MIUI 12",mastercard,Yuan Renminbi
+2025-07-31,Huawei,Android 2.2,jcb,Rupiah
+2025-10-10,Lenovo,Android 4.2.2,jcb,Peso
+2025-08-23,Gionee,"Android 5, Amigo OS 3",jcb,Real
+2025-11-19,Allview,Microsoft Windows Phone 8.1,mastercard,Yuan Renminbi
+2025-07-02,Asus,Android 5.1.1,americanexpress,Koruna
+2025-07-20,LG,Feature phone,americanexpress,Euro
+2025-11-19,Lenovo,Android 4.4.2,jcb,Peso
+2025-06-06,LG,Feature phone,jcb,Real
+2025-04-02,Motorola,Android 4.0.4,visa-electron,Peso
+2025-09-26,LG,Feature phone,visa-electron,Real
+2025-06-26,Samsung,Android 5.1.1,maestro,Rupiah
+2025-09-28,Asus,Microsoft Windows Mobile 6.0 Professional,jcb,Zloty
+2025-10-24,Motorola,"Symbian 7.0, UIQ 2.0",jcb,Yuan Renminbi
+2025-08-26,BQ,Android 7.1.1,jcb,Rupiah
+2025-08-13,Oppo,Android 4.0.4,mastercard,Euro
+2025-09-14,vivo,"Android 9.0, Funtouch 9.1",jcb,Ruble
+2025-07-06,NIU,Feature phone,mastercard,Rupiah
+2025-11-06,Philips,Android 5.1,laser,Koruna
+2026-01-01,Eten,Microsoft Windows Mobile 5.0 PocketPC,instapayment,Euro
+2026-01-14,Huawei,Android 4.0,jcb,Dollar
+2025-11-19,Samsung,"Android 2.3, TouchWiz UX UI",jcb,Krona
+2025-05-09,Lenovo,"Android 4.4, up to 5.0",visa-electron,Taka
+2025-03-29,Sagem,Feature phone,bankcard,Yuan Renminbi
+2025-08-11,Vodafone,Android 4.2.2,jcb,Zloty
+2025-06-06,alcatel,Firefox OS 1.3,mastercard,Euro
+2025-03-21,Parla,Feature phone,switch,Ruble
+2025-05-10,Qtek,Microsoft Windows Mobile 2003 SE PocketPC,diners-club-us-ca,Euro
+2025-10-15,Nokia,"Symbian 9.4, Series 60 rel. 5",americanexpress,Rupiah
+2025-03-13,Nokia,"Android 9.0, up to Android 11, Android One",visa-electron,Ruble
+2025-06-09,verykool,Feature phone,jcb,Baht
+2025-12-07,T-Mobile,Feature phone,china-unionpay,Dollar
+2025-11-06,ZTE,Android 4.1,china-unionpay,Peso
+2025-06-12,Motorola,Android 4.4.2,switch,Rupiah
+2025-11-02,ZTE,Android 4.1.2,diners-club-carte-blanche,Euro
+2025-05-13,Sony,"Symbian, UIQ",bankcard,Real
+2025-04-10,alcatel,Feature phone,maestro,Rupiah
+2025-09-19,Motorola,"Android 4.0.4, up to 4.4.2",jcb,Yuan Renminbi
+2025-10-14,Asus,Microsoft Windows Mobile 5.0 PocketPC,jcb,Yuan Renminbi
+2025-12-12,Samsung,Feature phone,switch,Yuan Renminbi
+2025-02-01,Plum,Feature phone,jcb,Dram
+2025-07-30,Samsung,"Android 8.0, up to Android 9.0",jcb,Hryvnia
+2025-03-09,Samsung,Feature phone,jcb,Euro
+2025-10-26,alcatel,Feature phone,diners-club-enroute,Yuan Renminbi
+2025-11-26,Oppo,Android 4.0.4,switch,Krona
+2025-03-19,BLU,Android 4.2,switch,Sol
+2025-07-15,Samsung,Feature phone,jcb,Dirham
+2025-11-26,Nokia,Feature phone,jcb,Hryvnia
+2025-12-04,LG,Feature phone,switch,Koruna
+2025-12-22,Samsung,Feature phone,switch,Rupiah
+2025-11-03,Lenovo,Android 5.0,jcb,Riels
+2025-10-24,Huawei,"Android 4.1, EMUI 1.5",mastercard,Rupiah
+2025-10-22,Spice,Android 2.2,diners-club-enroute,Zloty
+2025-09-27,Motorola,Feature phone,visa-electron,Ringgit
+2025-12-10,Plum,Feature phone,americanexpress,Real
+2025-09-10,Xiaomi,Android 10,jcb,Peso
+2025-09-28,Honor,"Android 10, Magic UI 3.1",jcb,Dong
+2025-12-21,Prestigio,Android 4.1,jcb,Real
+2025-05-25,Samsung,Feature phone,switch,Manat
+2025-02-12,Micromax,Feature phone,jcb,Rupiah
+2025-11-22,Acer,Android 4.2,diners-club-enroute,Yuan Renminbi
+2025-12-05,Plum,Feature phone,jcb,Peso
+2025-05-03,Samsung,Android 6.0.1,switch,Yuan Renminbi
+2025-03-22,Motorola,Feature phone,americanexpress,Euro
+2025-02-07,LG,Feature phone,maestro,Koruna
+2025-11-25,Pantech,"Android 2.3.5, up to 4.0",mastercard,Dinar
+2025-04-19,Lava,Android 5.1,mastercard,Yuan Renminbi
+2025-09-01,Micromax,Android 2.3,visa-electron,Real
+2025-05-21,HTC,Microsoft Windows Phone 8,jcb,Bolivar
+2025-03-09,Allview,Android 5.1,switch,Zloty
+2025-05-29,Xiaomi,"Android 8.1, planned upgrade to 10, MIUI 12",jcb,Euro
+2025-11-09,Amoi,Feature phone,solo,Dirham
+2025-01-30,Huawei,"Android 4.4.2, EMUI 2.3",jcb,Hryvnia
+2025-10-29,Nokia,Feature phone,visa,Yuan Renminbi
+2025-09-23,Oppo,"Android 9.0, up to Android 11, ColorOS 11",mastercard,Kuna
+2025-06-29,Motorola,Feature phone,switch,Yuan Renminbi
+2025-05-09,Samsung,"Android 4.3, up to 4.4.2, up to 5.0",china-unionpay,Euro
+2025-05-10,alcatel,Android 4.2,maestro,Ruble
+2025-09-07,Asus,Android 4.4,jcb,Tenge
+2025-02-25,HTC,"Android 2.3, up to 4.0, Sense UI 3",switch,Euro
+2025-09-07,LG,Feature phone,maestro,Real
+2025-03-21,Nokia,Feature phone,jcb,Yuan Renminbi
+2025-12-19,Panasonic,Feature phone,china-unionpay,Lek
+2025-06-19,Samsung,Android 7.0,americanexpress,Peso
+2025-08-30,Motorola,Linux / Java-based MOTOMAGX,instapayment,Rupiah
+2025-04-06,HP,Android 4.2.2,maestro,Dollar
+2025-10-17,Allview,Android 7.0,jcb,Franc
+2025-04-16,ZTE,Android 6.0,jcb,Kuna
+2025-05-23,QMobile,Feature phone,jcb,Euro
+2025-10-25,Motorola,Android 10,jcb,Dong
+2025-06-26,Energizer,KaiOS,jcb,Krona
+2025-06-22,alcatel,Firefox OS 1.0,laser,Peso
+2025-02-01,Sony,"Android 4.3, up to 5.1",switch,Ruble
+2025-02-05,HP,Android 4.4.2,instapayment,Euro
+2025-11-04,Haier,Feature phone,mastercard,Rupiah
+2025-03-10,Modu,Feature phone,jcb,Yuan Renminbi
+2025-09-15,Oppo,"Android 11, ColorOS 11.2",jcb,Peso
+2025-04-11,Micromax,Feature phone,bankcard,Cordoba
+2025-08-05,T-Mobile,Android 2.3.4,diners-club-enroute,Peso
+2025-11-14,Samsung,Palm 5.2,diners-club-enroute,Ruble
+2025-07-17,Meizu,"Android 5.1, Flyme UI",china-unionpay,Peso
+2025-10-30,Huawei,"Android 8.0, EMUI 8",switch,Zloty
+2025-09-08,Sendo,Feature phone,diners-club-carte-blanche,Yuan Renminbi
+2025-07-30,Motorola,Linux,maestro,Peso
+2025-08-06,LG,Android 9.0,mastercard,Euro
+2025-06-03,Bosch,Feature phone,diners-club-enroute,Sol
+2025-04-27,Realme,"Android 10, Realme UI",mastercard,Yuan Renminbi
+2025-11-25,Allview,Android 4.2.2,visa,Ruble
+2026-01-17,Nokia,Feature phone,jcb,Peso
+2025-04-21,Allview,Android 4.4.2,switch,Rupiah
+2026-01-13,YU,Android 7.0,diners-club-carte-blanche,Pound
+2026-01-05,Infinix,Android 6.0,jcb,Euro
+2026-01-01,Emporia,Feature phone,jcb,Rupiah
+2025-08-04,Micromax,Android 5.1,jcb,Yuan Renminbi
+2025-04-11,Samsung,Feature phone,americanexpress,Yen
+2025-11-22,Lenovo,"Android 5.0.2, up to 6.0",visa-electron,Peso
+2025-12-15,Samsung,"Android 3.0, up to 4.0, TouchWiz UX UI",china-unionpay,Peso
+2025-05-07,Huawei,Android 4.1,jcb,Yuan Renminbi
+2025-11-06,ZTE,Android 4.0,switch,Baht
+2025-12-26,Lenovo,Android 4.2.2,laser,Rupiah
+2026-01-07,Ulefone,Android 10,jcb,Euro
+2025-01-29,BenQ,Feature phone,bankcard,Balboa
+2025-10-06,BenQ,Feature phone,jcb,Dollar
+2025-06-11,alcatel,Android 7.1,jcb,Rupiah
+2025-07-20,Oppo,"Android 7.1.1, ColorOS 3.2",china-unionpay,Ruble
+2025-02-23,alcatel,Feature phone,jcb,Rupiah
+2025-12-17,HTC,"Android 4.4.2, Sense UI 6",diners-club-us-ca,Peso
+2025-09-30,Samsung,Feature phone,jcb,Ruble
+2025-09-05,Gionee,"Android 5.1, Amigo 3.1",mastercard,Real
+2025-02-07,Posh,Android 4.2.2,diners-club-enroute,Dollar
+2026-01-14,XOLO,"Android 4.3, up to 4.4.2",mastercard,Euro
+2025-03-02,Motorola,Feature phone,mastercard,Yen
+2025-03-02,i-mate,Microsoft Windows Mobile 2003 SE PocketPC,visa-electron,Euro
+2025-03-01,Motorola,"Android 2.1, up to 2.2",jcb,Dollar
+2025-10-07,Amoi,Feature phone,mastercard,Baht
+2025-02-09,BLU,Android 9.0,maestro,Som
+2025-03-16,QMobile,"Android 6.0, Amigo 3.1",jcb,Peso
+2025-04-11,Nokia,Microsoft Windows Phone 7,jcb,Real
+2025-02-08,Oppo,Android 4.2.1,visa-electron,Won
+2025-08-04,Nokia,Feature phone,jcb,Won
+2025-11-17,vivo,"Android 9.0, Funtouch 9.2",maestro,Yuan Renminbi
+2025-03-24,Yezz,Android 4.4.2,jcb,Yuan Renminbi
+2025-03-25,Realme,"Android 10, Realme UI",mastercard,Koruna
+2025-03-15,LG,Feature phone,maestro,Peso
+2025-09-12,alcatel,Feature phone,jcb,Won
+2026-01-12,Samsung,"Android 4.3, up to 4.4.2",jcb,Rupiah
+2025-02-20,Lenovo,Android 4.4.2,maestro,Dollar
+2025-07-12,NEC,Feature phone,jcb,Ruble
+2025-06-24,Samsung,"Android 4.4, TouchWiz UI",switch,Won
+2025-03-29,Samsung,"Android 5.1, up to 7.1.1",jcb,Dollar
+2025-03-22,Haier,Feature phone,diners-club-enroute,Dollar
+2025-12-25,BLU,Android 9.0,mastercard,Denar
+2025-06-25,Innostream,Feature phone,americanexpress,Krona
+2025-06-28,Asus,"Android 4.3, up to 4.4.2",maestro,Ruble
+2025-05-26,LeEco,"Android 6.0, eUI 5.6",diners-club-enroute,Ringgit
+2025-12-01,Lava,Android 4.2,americanexpress,Rupiah
+2025-12-07,LG,Feature phone,instapayment,Rial
+2025-12-08,HTC,Microsoft Windows Mobile 5.0 Smartphone,mastercard,Quetzal
+2025-12-30,BQ,"Android 7.1.2, up to Android 8.0",maestro,Yuan Renminbi
+2025-10-01,Samsung,Feature phone,visa,Euro
+2025-07-13,Xiaomi,"Android 10, MIUI 11",bankcard,Euro
+2025-08-02,ZTE,Android 6.0,visa-electron,Zloty
+2025-10-21,alcatel,Feature phone,jcb,Yuan Renminbi
+2025-06-04,BLU,Android 5.1,americanexpress,Peso
+2025-03-29,Plum,Android 4.1.2,china-unionpay,Peso
+2025-03-18,Samsung,Feature phone,jcb,Rupiah
+2025-06-23,Samsung,Tizen OS 4.0,mastercard,Rupiah
+2025-04-14,LG,Proprietary OS,americanexpress,Yuan Renminbi
+2025-02-28,BenQ-Siemens,Feature phone,jcb,Rupiah
+2025-04-03,Gigabyte,Microsoft Windows Mobile 5.0 for &hellip;,diners-club-enroute,Yuan Renminbi
+2025-05-25,Sony,"Android 9.0, up to Android 10",jcb,Ruble
+2025-04-15,Palm,Microsoft Windows Mobile 6.0 Standard Edition,diners-club-enroute,Shilling
+2025-10-26,alcatel,Feature phone,jcb,Euro
+2025-03-23,Motorola,Feature phone,maestro,Rupee
+2025-08-04,ZTE,"Android 5.2, nubia UI 3",americanexpress,Real
+2025-08-31,Acer,Android 5.0,jcb,Riels
+2025-05-23,LG,Feature phone,mastercard,Rupiah
+2025-11-05,BenQ-Siemens,Feature phone,jcb,Dollar
+2025-10-11,BenQ,Feature phone,maestro,Koruna
+2025-03-24,Samsung,Proprietary OS,jcb,Yuan Renminbi
+2025-02-05,LG,Feature phone,mastercard,Euro
+2025-02-23,Toshiba,Microsoft Windows Phone 7.5 Mango,diners-club-us-ca,Yuan Renminbi
+2025-05-02,LG,Feature phone,americanexpress,Real
+2025-08-08,Sony,Feature phone,jcb,Dinar
+2025-03-03,Bird,Feature phone,jcb,Peso
+2025-02-21,Samsung,Feature phone,jcb,Yen
+2025-02-16,Sony,"Symbian 7.0, UIQ v2.0 UI",switch,Peso
+2025-08-07,Micromax,"Android 5.1, Android One",diners-club-us-ca,Yuan Renminbi
+2025-09-14,Nokia,Feature phone,diners-club-us-ca,Dollar
+2025-03-08,Nokia,Feature phone,jcb,Pound
+2025-02-13,vivo,"Android 9.0, Funtouch 9.0",maestro,Euro
+2025-09-12,Realme,"Android 10, Realme UI",jcb,Baht
+2025-07-12,LG,Feature phone,jcb,Euro
+2025-05-27,LG,Feature phone,maestro,Dollar
+2026-01-02,T-Mobile,Android 1.6,china-unionpay,Real
+2025-12-02,alcatel,Android 4.2,jcb,Pound
+2025-04-11,Philips,Feature phone,visa-electron,Peso
+2025-07-30,Gigabyte,Android 4.4,jcb,Rupiah
+2025-09-27,Prestigio,Android 4.1,jcb,Euro
+2025-05-17,Lava,Android 10,jcb,Dollar
+2025-06-28,Samsung,"Android 2.3, up to 4.1, TouchWiz UI",diners-club-carte-blanche,Baht
+2025-03-27,Gionee,Android 4.2,diners-club-carte-blanche,Yuan Renminbi
+2025-04-02,Pantech,Feature phone,jcb,Rupiah
+2026-01-04,HP,Android 4.4.2,jcb,Yuan Renminbi
+2025-02-18,LG,Feature phone,jcb,Dollar
+2025-02-10,Yezz,Feature phone,jcb,Forint
+2025-01-27,LG,"Android 4.4.2, up to 5.0",diners-club-enroute,Sol
+2025-11-25,Ulefone,Android 7.0,jcb,Real
+2025-08-08,Asus,"Android 8.1, up to 9.0, ROG Gaming X UI",maestro,Euro
+2025-03-28,HTC,"Android 4.4.2, Sense UI 6",mastercard,Euro
+2025-06-20,Bird,Feature phone,americanexpress,Won
+2025-11-26,Philips,Feature phone,jcb,Yuan Renminbi
+2025-02-27,Motorola,Android 2.3,laser,Peso
+2025-01-23,HTC,Android 7.x,jcb,Euro
+2025-06-09,Samsung,"Android 4.4.2, up to 6.0, TouchWiz UI",jcb,Krona
+2025-07-08,Honor,"Android 9.0, EMUI 9",jcb,Sol
+2025-10-07,Panasonic,Feature phone,bankcard,Yuan Renminbi
+2025-02-04,Xiaomi,"Android 10, MIUI 11",jcb,Hryvnia
+2025-10-13,Xiaomi,"Android 10, MIUI 11",maestro,Euro
+2025-04-09,Gigabyte,Android 1.6,china-unionpay,Yuan Renminbi
+2025-12-13,Pantech,Feature phone,visa-electron,Rupiah
+2025-06-30,ZTE,"Android 2.1, up to 2.2",jcb,Ruble
+2025-09-14,Samsung,"Android 10, up to Android 11, One UI 3.1",jcb,Rupiah
+2025-03-27,Gigabyte,Android 4.0,switch,Dirham
+2025-12-15,Sagem,Feature phone,jcb,Ruble
+2025-08-26,Amoi,Feature phone,instapayment,Rupiah
+2025-10-31,Huawei,"Android 10, EMUI 10.1",jcb,Sol
+2025-08-14,Samsung,"Android 8.1, up to Android 10",jcb,Euro
+2025-05-04,ZTE,Android 4.0,jcb,Dirham
+2025-09-02,Yezz,Android 5.1,jcb,Ruble
+2025-07-16,Oppo,"Android 5.1, ColorOS 2.1",americanexpress,Yuan Renminbi
+2025-01-23,LG,Android 4.4.2,jcb,Tugrik
+2025-11-11,Amoi,Feature phone,mastercard,Yuan Renminbi
+2025-06-29,Lava,Android 4.4.2,diners-club-us-ca,Dinar
+2025-07-16,Sony,"Symbian Series 60, 5th edition",china-unionpay,Dollar
+2025-01-31,Lenovo,Android 5.1,jcb,Peso
+2025-03-24,NIU,Android 4.2,diners-club-us-ca,Yuan Renminbi
+2025-05-15,Siemens,Feature phone,diners-club-enroute,Koruna
+2025-08-01,Motorola,Android 2.2,diners-club-enroute,Euro
+2025-02-17,Oppo,"Android 10, ColorOS 7",switch,Yen
+2025-10-25,LG,Feature phone,jcb,Peso
+2025-11-05,Samsung,Feature phone,solo,Zloty
+2025-10-04,Motorola,Feature phone,visa-electron,Yuan Renminbi
+2025-02-20,Motorola,Feature phone,visa-electron,Yuan Renminbi
+2025-10-03,Sony,Feature phone,americanexpress,Yuan Renminbi
+2025-09-18,Tel.Me.,Feature phone,solo,Ruble
+2025-03-24,BLU,Android 5.0.2,americanexpress,Ruble
+2026-01-09,LG,"Android 5.1.1, up to 7.0, LG UX 4 UI",jcb,Pound
+2025-09-14,NEC,Feature phone,maestro,Yuan Renminbi
+2025-07-06,LG,Feature phone,jcb,Krona
+2025-02-18,Vodafone,Feature phone,jcb,Euro
+2025-05-14,Yezz,Android 4.4,americanexpress,Shekel
+2025-07-28,Spice,Feature phone,jcb,Rupiah
+2025-12-01,LG,Feature phone,maestro,Euro
+2025-06-05,ZTE,Android 2.2,instapayment,Peso
+2025-03-28,vivo,"Android 9.0, Funtouch 9.2",switch,Yuan Renminbi
+2025-04-24,VK,Feature phone,jcb,Leu
+2025-10-12,vivo,"Android 10, Funtouch 10.0",instapayment,Peso
+2025-09-01,BLU,"Android 9.0, planned upgrade to Android 10",jcb,Yuan Renminbi
+2025-08-28,Asus,Android 4.4.2,jcb,Franc
+2025-03-29,Samsung,Feature phone,jcb,Yuan Renminbi
+2026-01-03,BLU,"Android 5.1, up to 6.0",mastercard,Lev
+2025-08-19,Micromax,Feature phone,diners-club-enroute,Rupiah
+2026-01-12,Samsung,Feature phone,jcb,Euro
+2025-12-14,Yezz,Android 4.2,jcb,Ariary
+2025-07-26,Icemobile,Android 2.2,mastercard,Rupiah
+2025-02-15,Sony,"Android 5.0, up to 6.0",americanexpress,Yuan Renminbi
+2025-08-25,Panasonic,Feature phone,switch,Krona
+2025-08-24,Apple,"watchOS 5.0, up to 7.6",visa-electron,Zloty
+2025-12-16,Motorola,Feature phone,jcb,Dinar
+2025-03-17,alcatel,Android 5.1,visa,Zloty
+2025-09-23,Coolpad,"Android 7.1.1, Journey UI",instapayment,Real
+2025-04-22,Panasonic,Feature phone,jcb,Zloty
+2025-08-28,Lava,Android 6.0,solo,Rial
+2025-08-03,Samsung,Feature phone,laser,Peso
+2026-01-09,Philips,Android 4.4.2,mastercard,Ruble
+2025-04-03,Samsung,"Android 4.4.2, TouchWiz UI",mastercard,Yuan Renminbi
+2025-04-25,Samsung,"Android 10, up to Android 11, One UI 3.1",solo,Litas
+2025-11-28,HTC,Android 9,mastercard,Hryvnia
+2025-12-31,LG,Android 6.0.1,mastercard,Ringgit
+2025-04-09,Samsung,Microsoft Windows Mobile 6.0 Standard Edition,switch,Rupee
+2025-10-24,Tecno,"Android 8.1, HIOS 4.1",americanexpress,Yuan Renminbi
+2025-05-12,Vodafone,Feature phone,china-unionpay,Krona
+2025-12-30,Sony,"Android 4.3, up to 5.1",maestro,Peso
+2025-08-16,Samsung,Android 4.0.4,jcb,Dinar
+2025-06-08,Huawei,Android 4.0.4,jcb,Yuan Renminbi
+2025-03-17,Plum,Feature phone,jcb,Krone
+2025-03-08,Nokia,"Android 8.1, up to Android 10, Android One",jcb,Yen
+2026-01-14,Bird,Feature phone,jcb,Peso
+2025-06-10,LG,"Android 2.3.6, up to 4.0.4",jcb,Yuan Renminbi
+2025-12-20,HTC,Microsoft Windows Mobile 6.5 Professional,jcb,Peso
+2025-01-23,Micromax,Feature phone,jcb,Koruna
+2026-01-05,BLU,Android 6.0,jcb,Krona
+2025-08-03,Sharp,Feature phone,jcb,Krona
+2025-04-02,T-Mobile,Android 4.1,mastercard,Yuan Renminbi
+2026-01-16,Sharp,Feature phone,jcb,Yuan Renminbi
+2025-10-19,QMobile,Android 5.0,jcb,Krone
+2025-08-07,Microsoft,Feature phone,jcb,Peso
+2025-06-12,Panasonic,Android 6.0,jcb,Yuan Renminbi
+2025-04-17,Xiaomi,"Android 7.1.1, MIUI 11",jcb,Yuan Renminbi
+2025-01-30,Samsung,Feature phone,jcb,Shekel
+2025-08-11,alcatel,Feature phone,jcb,Rupiah
+2025-02-23,Samsung,Feature phone,jcb,Peso
+2026-01-04,Nokia,Feature phone,diners-club-enroute,Yuan Renminbi
+2025-08-29,Lenovo,Android 5.0,jcb,Krone
+2025-08-15,Celkon,Feature phone,jcb,Dinar
+2025-02-14,Archos,Android 5.1,jcb,Krone
+2025-04-29,Philips,Feature phone,jcb,Ringgit
+2025-06-05,LG,"Android 4.4.2, up to 5.0",americanexpress,Euro
+2025-06-18,Realme,"Android 8.1, up to Android 10, Realme UI",jcb,Rupiah
+2025-08-03,Sony,"Android 5.1.1, up to 7.1.1",jcb,Shilling
+2025-05-27,Allview,Android 4.4.4,jcb,Krona
+2025-07-22,Xiaomi,"Android 10, up to Android 11, MIUI 12",china-unionpay,Rupiah
+2025-05-10,Samsung,Feature phone,jcb,Pound
+2026-01-05,Motorola,"Symbian 7.0, UIQ v2.1 UI",jcb,Yen
+2025-03-10,verykool,Android 7.0,jcb,Koruna
+2025-07-15,Vodafone,Feature phone,jcb,Yuan Renminbi
+2025-04-16,Samsung,"Android 4.3, up to 4.4.2",jcb,Rupiah
+2025-10-13,Celkon,Feature phone,switch,Euro
+2025-03-26,Infinix,Android 6.0,jcb,Ruble
+2025-04-29,Lava,Android 8.0 Oreo - 1 GB RAM model&hellip;,bankcard,Real
+2025-04-28,Philips,Feature phone,jcb,Krone
+2026-01-10,Nokia,"Symbian 7.0s, Series 90 UI",mastercard,Dollar
+2025-08-10,Motorola,Android 10,switch,Yuan Renminbi
+2025-03-26,LG,Feature phone,jcb,Litas
+2025-12-13,ZTE,Feature phone,jcb,Rand
+2025-12-26,Lava,Android 10,china-unionpay,Dollar
+2025-09-08,Plum,Android 6.0,jcb,Rupiah
+2025-09-22,alcatel,Android 11,china-unionpay,Euro
+2026-01-17,HTC,Android 8.0,diners-club-carte-blanche,Yuan Renminbi
+2026-01-17,BLU,Android 6.0,americanexpress,Euro
+2025-07-07,alcatel,Feature phone,visa-electron,Euro
+2025-07-04,Micromax,Android 4.4.2,jcb,Naira
+2025-02-05,Lava,Android 5.1,laser,Rupiah
+2025-12-01,BlackBerry,BlackBerry OS 5.0,jcb,Euro
+2025-08-06,Icemobile,Android OS,china-unionpay,Koruna
+2025-02-08,BLU,Feature phone,laser,Lilangeni
+2025-08-21,ZTE,Android 9.0,maestro,Yen
+2025-02-24,alcatel,Feature phone,bankcard,Peso
+2025-05-13,Samsung,Android 3.0,bankcard,Yuan Renminbi
+2025-11-28,Samsung,Feature phone,jcb,Peso
+2025-02-21,Huawei,"Android 7.0, EMUI 5.1",jcb,Euro
+2025-07-26,Samsung,"Android 4.4.4, up to 6.0.1",china-unionpay,Yuan Renminbi
+2025-03-03,Philips,Feature phone,jcb,Euro
+2025-12-30,Asus,Microsoft Windows Phone 7,jcb,Sol
+2025-11-22,LG,Android 5.1,jcb,Baht
+2025-10-15,Samsung,"Android 4.2.2, TouchWiz UI",jcb,Peso
+2025-03-16,Wiko,Android 7.0,jcb,Real
+2025-11-12,HTC,"Android 4.4.2, up to 6, Sense UI 7",diners-club-enroute,Peso
+2025-03-12,Haier,Feature phone,diners-club-enroute,Rand
+2025-08-27,Maxon,Feature phone,mastercard,Euro
+2025-02-24,LG,"Android 10, up to Android 11, LG UX 10",switch,Naira
+2025-06-20,Wiko,Android 4.4.2,mastercard,Hryvnia
+2025-11-27,LG,Android 4.4.2,maestro,Dong
+2025-09-10,HTC,"Android 4.0, Sense UI",laser,Kyat
+2025-06-23,Samsung,Android 2.2,visa,Ruble
+2025-06-02,Asus,Microsoft Windows Mobile 5.0 PocketPC,diners-club-enroute,Dirham
+2025-03-06,Prestigio,Android 4.1,maestro,Peso
+2025-05-19,Nokia,"Symbian OS 9.1, S60 3rd edition",diners-club-enroute,Bolivar
+2025-07-04,BenQ,Feature phone,maestro,Rupiah
+2025-03-15,vivo,"Android 8.1, Funtouch 4",jcb,Rupiah
+2025-02-21,Motorola,Feature phone,maestro,Dollar
+2025-07-18,BLU,Android 2.3,china-unionpay,Rupiah
+2025-04-17,XOLO,Android 4.2,laser,Peso
+2025-08-27,Kyocera,Microsoft Windows Mobile 6.0 Standard,jcb,Rupiah
+2025-11-01,vivo,"Android 5.1, Funtouch 2.5",jcb,Dollar
+2025-01-27,LG,Feature phone,visa-electron,Zloty
+2025-10-06,Samsung,"Android 4.4.2, TouchWiz UI",jcb,Yuan Renminbi
+2026-01-17,XOLO,Android 4.4.2,visa,Lek
+2025-05-09,Samsung,Android 2.2,solo,Yuan Renminbi
+2025-04-06,Motorola,Feature phone,instapayment,Yuan Renminbi
+2025-09-02,Samsung,Feature phone,china-unionpay,Rupiah
+2025-03-19,Nokia,Feature phone,jcb,Rand
+2025-08-01,LG,Feature phone,switch,Marka
+2025-04-14,Nokia,"Nokia Asha software platform 1.1.1, up to 1.4",laser,Euro
+2025-05-29,Motorola,Feature phone,mastercard,Taka
+2025-03-03,Allview,Microsoft Windows Phone 8.1,jcb,Bolivar
+2025-10-20,Celkon,Android 5.0,jcb,Euro
+2025-08-03,Plum,Android 8.0 Oreo,visa-electron,Rupiah
+2025-07-22,Samsung,"Android 9.0, up to Android 11, One UI 3.1",maestro,Euro
+2025-07-13,Toshiba,Microsoft Windows Mobile 6.5 Professional,laser,Yuan Renminbi
+2025-06-13,Huawei,Feature phone,jcb,Ruble
+2025-09-26,Samsung,Feature phone,jcb,Koruna
+2025-04-07,Oppo,"Android 11, ColorOS 11.1",jcb,Franc
+2025-05-06,verykool,Android 5.1,laser,Rupiah
+2025-03-19,Allview,Android 6.0,instapayment,Pound
+2025-03-05,Gionee,Android 6.0,jcb,Yuan Renminbi
+2025-10-18,Spice,Android 4.2,americanexpress,Yuan Renminbi
+2026-01-15,HP,Android 4.2.2,jcb,Riels
+2025-06-13,Asus,Feature phone,mastercard,Yuan Renminbi
+2025-03-06,BLU,Android 5.1,diners-club-carte-blanche,Yen
+2025-09-16,Allview,Android 4.1,jcb,Dollar
+2026-01-20,QMobile,Android 4.4.2,mastercard,Euro
+2025-09-02,Motorola,Feature phone,china-unionpay,Rupiah
+2025-11-15,vivo,"Android 9.0, Funtouch 9",jcb,Ruble
+2025-07-13,Huawei,Feature phone,instapayment,Euro
+2025-03-05,Samsung,Feature phone,diners-club-carte-blanche,Rupiah
+2025-12-08,BLU,Android 8.1 Oreo,jcb,Rupiah
+2025-10-23,Samsung,Feature phone,jcb,Shekel
+2025-03-17,Motorola,Feature phone,bankcard,Euro
+2025-09-14,Samsung,Android 2.2,visa-electron,Birr
+2025-11-08,ZTE,Android-based OPhone 2.0,diners-club-carte-blanche,Lev
+2025-03-19,Motorola,"Android 8.0, up to Android 9.0",americanexpress,Guarani
+2025-02-21,Celkon,Feature phone,mastercard,Real
+2025-01-31,Prestigio,Microsoft Windows Phone 8.1,china-unionpay,Peso
+2025-11-18,Nokia,Feature phone,maestro,Real
+2025-03-01,Allview,Android 4.0.4,americanexpress,Yuan Renminbi
+2025-06-08,YU,"Android 4.4.4, up to 5.1",switch,Yuan Renminbi
+2026-01-02,Samsung,"Android 8.1, up to Android 10, One UI 2.5",jcb,Yuan Renminbi
+2025-03-10,Lenovo,Android 4.0.3,switch,Rupiah
+2025-12-10,Nokia,Feature phone,jcb,Rupiah
+2025-07-17,BLU,Android 6.0,diners-club-enroute,Ruble
+2025-03-09,Celkon,Android 4.0,switch,Yuan Renminbi
+2025-12-10,Plum,Feature phone,diners-club-carte-blanche,Yuan Renminbi
+2025-10-09,HTC,Android 10,jcb,Naira
+2025-02-26,LG,Feature phone,laser,Yuan Renminbi
+2025-05-12,Apple,"iOS 8, up to iOS 12.4.6",diners-club-carte-blanche,Franc
+2025-10-13,vivo,"Android 7.1.1, Funtouch 3.2",jcb,Cedi
+2025-04-12,alcatel,Android 2.3.5,mastercard,Yuan Renminbi
+2025-03-01,Nokia,Microsoft Windows Phone 7.5 Mango,diners-club-international,Yuan Renminbi
+2025-07-28,Plum,Feature phone,americanexpress,Peso
+2025-04-13,Pantech,Feature phone,maestro,Ruble
+2025-03-26,Apple,"iOS 13, up to iOS 14.7",diners-club-international,Rupiah
+2025-07-17,vivo,"Android 9.0, Funtouch 9.1",jcb,Ruble
+2025-06-20,alcatel,Feature phone,jcb,Yuan Renminbi
+2025-02-27,alcatel,Android 2.3,bankcard,Hryvnia
+2025-10-21,LG,"Android 4.4, up to 6.0",jcb,Real
+2025-08-28,Wiko,Android 7.1,visa-electron,Real
+2025-02-22,Nokia,Feature phone,diners-club-us-ca,Dram
+2025-10-25,BLU,Android 6.0,mastercard,Real
+2025-03-17,Nokia,Android 9.0,jcb,Yuan Renminbi
+2025-02-05,Allview,Android 5.0,visa,Dollar
+2025-06-04,Huawei,"Android 9.0, EMUI 9.1",mastercard,Euro
+2025-01-29,Prestigio,Android 4.2,jcb,Peso
+2025-10-21,XOLO,Android 4.4.2,switch,Yuan Renminbi
+2026-01-19,Celkon,Feature phone,jcb,Peso
+2025-08-11,ZTE,Android 4.4.2,instapayment,Franc
+2025-02-12,Motorola,Android 2.3,visa,Rupiah
+2025-02-23,Asus,Feature phone,jcb,Kuna
+2025-07-06,VK,Feature phone,diners-club-enroute,Rupiah
+2025-08-03,Ericsson,Feature phone,mastercard,Koruna
+2025-04-20,Samsung,Microsoft Windows Mobile 6.1 Standard,americanexpress,Yuan Renminbi
+2025-03-25,Celkon,Android 4.2.2,jcb,Yuan Renminbi
+2025-07-30,BenQ,Feature phone,jcb,Euro
+2025-04-13,LG,Android 9.0,jcb,Franc
+2025-04-24,Lava,Android 10,jcb,Krona
+2025-03-14,Nokia,"Symbian OS 9.1, S60 3rd edition",jcb,Rial
+2026-01-04,Allview,Android 4.2,switch,Krona
+2025-11-21,Motorola,Feature phone,jcb,Rupiah
+2025-08-25,Realme,Proprietary OS,visa,Franc
+2025-04-13,Samsung,Feature phone,diners-club-enroute,Krona
+2025-09-09,Huawei,"Android 10, EMUI 10",mastercard,Yuan Renminbi
+2025-07-26,Sony,Feature phone,diners-club-enroute,Yuan Renminbi
+2025-05-10,LG,Android 4.4.2,visa,Hryvnia
+2026-01-15,Samsung,Android 2.2,maestro,Peso
+2025-12-26,Asus,Android 4.0.1,visa-electron,Yuan Renminbi
+2025-04-16,Samsung,Feature phone,diners-club-enroute,Euro
+2025-03-25,LG,Feature phone,instapayment,Dollar
+2025-10-26,Micromax,"Android 4.4.4, up to 5.1, Android One",china-unionpay,Hryvnia
+2025-08-21,Gigabyte,Android 2.3,jcb,Ruble
+2025-12-21,Samsung,"Android 5.1.1, up to 7.0, TouchWiz UI",jcb,Koruna
+2025-07-24,Siemens,Feature phone,americanexpress,Rupiah
+2025-05-10,ZTE,Android 4.0,jcb,Yuan Renminbi
+2026-01-05,Micromax,Feature phone,visa-electron,Yuan Renminbi
+2025-10-14,BlackBerry,BlackBerry OS 6.1,jcb,Dollar
+2025-07-27,Dell,Android 3.2,jcb,Real
+2025-03-04,Energizer,Android 9.0,jcb,Euro
+2025-06-29,LG,Feature phone,bankcard,Ruble
+2026-01-09,Micromax,"Android 4.4.4, up to 5.1, Android One",jcb,Rupiah
+2025-07-15,Amoi,Microsoft Windows Mobile 5.0 Phone Edition,bankcard,Quetzal
+2025-10-12,Prestigio,Android 4.1,maestro,Rupiah
+2025-03-16,BLU,"Android 4.2.2, up to 4.4.2",solo,Lari
+2025-06-20,Nokia,Feature phone,jcb,Peso
+2026-01-15,HTC,Android 10,jcb,Rupiah
+2025-07-25,Spice,Android 4.2,switch,Real
+2025-04-28,Nokia,Feature phone,jcb,Naira
+2025-04-06,Infinix,Android 6.0,jcb,Yuan Renminbi
+2025-11-01,Palm,Palm 5.2.1H,mastercard,Yuan Renminbi
+2025-10-17,Samsung,"Android 4.0.3, up to 4.2.2, TouchWiz UX UI",bankcard,Yuan Renminbi
+2025-10-01,Philips,Feature phone,jcb,Yuan Renminbi
+2025-04-12,LG,Feature phone,jcb,Peso
+2025-05-25,LG,Feature phone,jcb,Yen
+2026-01-17,verykool,Android 6.0,jcb,Euro
+2025-07-13,VK,Feature phone,jcb,Yuan Renminbi
+2025-07-26,i-mate,Microsoft Windows Mobile 6.0 Professional,jcb,Yuan Renminbi
+2025-03-24,Plum,Android 5.1,jcb,Euro
+2025-08-25,Sendo,Feature phone,jcb,Real
+2025-12-23,alcatel,Feature phone,jcb,Euro
+2026-01-15,Plum,Feature phone,china-unionpay,Ruble
+2025-05-21,Huawei,"Android 4.1, up to 4.2.2, EMUI 1.5",diners-club-international,Rupiah
+2025-12-16,i-mobile,Feature phone,visa,Dong
+2025-09-22,Pantech,Feature phone,bankcard,Yuan Renminbi
+2025-12-09,Samsung,Microsoft Windows Mobile 6.1 Professional,laser,Euro
+2025-11-17,Nokia,Feature phone,jcb,Shekel
+2025-03-26,Amoi,Feature phone,jcb,Peso
+2025-06-05,VK,Feature phone,jcb,Rupiah
+2025-10-09,Realme,Android 10,jcb,Rupiah
+2025-05-07,BLU,Android 4.2,diners-club-carte-blanche,Euro
+2025-12-02,alcatel,Feature phone,jcb,Yuan Renminbi
+2025-05-07,vivo,"Android 9.0, Funtouch 9.1",visa-electron,Rupiah
+2025-10-27,ZTE,"Android 2.3.6, up to 4.0",jcb,Dram
+2025-02-04,Yezz,Android 5.1,mastercard,Afghani
+2025-08-01,Samsung,Android 2.2,jcb,Dollar
+2025-05-14,Huawei,Android 4.4,mastercard,Rupiah
+2025-08-15,BLU,Android 5.1,mastercard,Rupiah
+2025-08-07,Huawei,"Android 8.1, up to Android 10, EMUI 10.0",diners-club-carte-blanche,Real
+2025-04-12,Tel.Me.,Feature phone,jcb,Yuan Renminbi
+2025-10-05,Samsung,Microsoft Windows Mobile 6.5 Professional,mastercard,Real
+2025-10-27,LG,"Android 6.0, up to Android 8.0",mastercard,Yuan Renminbi
+2025-05-22,Panasonic,Feature phone,mastercard,Dollar
+2025-09-18,HTC,Android 8.1,jcb,Rupiah
+2025-09-22,LG,Android 2.3.7,jcb,Euro
+2025-02-09,Samsung,"Android 2.3, up to 4.0, TouchWiz UI 4",jcb,Peso
+2025-10-17,Lava,Android 4.2,jcb,Euro
+2025-10-09,LG,Feature phone,jcb,Peso
+2025-02-07,Vodafone,Android 6.0.1,china-unionpay,Krona
+2025-03-02,VK,Feature phone,jcb,Yuan Renminbi
+2025-03-01,BLU,Android 9.0,visa-electron,Baht
+2025-11-19,Samsung,Feature phone,americanexpress,Dollar
+2025-10-22,Motorola,Feature phone,laser,Rupiah
+2025-05-14,Motorola,Android 6.0.1,jcb,Dollar
+2025-11-30,Pantech,Feature phone,diners-club-carte-blanche,Franc
+2025-07-01,vivo,"Android 8.1, Funtouch 4",instapayment,Rupiah
+2025-11-25,Lava,Android 5.1,jcb,Euro
+2025-03-29,Spice,Feature phone,jcb,Baht
+2025-02-21,Maxwest,Feature phone,diners-club-enroute,Rupiah
+2026-01-01,Wiko,Android 10,jcb,Denar
+2025-04-12,Icemobile,Android 4.2.2,jcb,Franc
+2025-09-13,alcatel,Android 5.0,visa-electron,Real
+2025-06-04,LG,Android 6.0,jcb,Shilling
+2025-06-21,Spice,Android 2.3,china-unionpay,Yuan Renminbi
+2025-03-26,vivo,"Android 10, Funtouch 10.5",diners-club-us-ca,Koruna
+2025-07-10,Nokia,Microsoft Windows Phone 7.8,china-unionpay,Ruble
+2025-11-22,Samsung,"Symbian OS 9.1, Series 60 v3.1 UI",mastercard,Yuan Renminbi
+2025-09-07,alcatel,Feature phone,visa,Euro
+2025-09-14,vivo,"Android 7.1.1, up to 8.0, Funtouch 3.2",mastercard,Ruble
+2025-09-30,Lava,Android 4.2,switch,Yen
+2025-08-20,Infinix,"Android 10, XOS 6.0",jcb,Ruble
+2025-08-22,Motorola,Feature phone,bankcard,Hryvnia
+2025-10-21,Panasonic,Android 7.0,mastercard,Rupiah
+2025-03-13,ZTE,"Android 10, nubia UI 8.0",jcb,Manat
+2025-01-24,Motorola,Android 10,visa-electron,Yuan Renminbi
+2025-08-03,Samsung,Feature phone,jcb,Dinar
+2025-06-14,alcatel,Feature phone,jcb,Hryvnia
+2025-04-05,BLU,Android 7.0,mastercard,Kuna
+2025-10-31,Motorola,Linux / Java-based MOTOMAGX,diners-club-enroute,Yen
+2025-03-18,Intex,Android OS compatible,maestro,Hryvnia
+2025-11-06,Samsung,Feature phone,instapayment,Ruble
+2025-11-30,Micromax,Feature phone,switch,Naira
+2025-04-15,Huawei,"Android 4.3, EMUI 1.6",bankcard,Yen
+2026-01-02,LG,Feature phone,jcb,Rupee
+2025-12-05,Sagem,Feature phone,mastercard,Yuan Renminbi
+2025-08-05,LG,Feature phone,maestro,Krona
+2025-04-30,NEC,Feature phone,diners-club-carte-blanche,Zloty
+2025-08-28,Posh,Android 6.0,jcb,Franc
+2025-07-27,Bird,Feature phone,jcb,Dinar
+2025-05-03,alcatel,Android 4.1,jcb,Euro
+2025-10-16,Honor,"Android 9.0, Magic 2",diners-club-us-ca,Rupiah
+2025-08-22,Samsung,Android 4.0.4,jcb,Yuan Renminbi
+2026-01-13,Samsung,Android 2.2,switch,Yuan Renminbi
+2025-11-29,Haier,Feature phone,diners-club-enroute,Ruble
+2025-02-06,alcatel,Feature phone,jcb,Yuan Renminbi
+2025-02-14,Samsung,Feature phone,switch,Yuan Renminbi
+2025-02-14,LG,Feature phone,switch,Baht
+2025-11-11,Nokia,"Symbian, S60 rel. 3.2",maestro,Rupiah
+2025-10-08,ZTE,Android-based OPhone 2.0,mastercard,Ringgit
+2025-01-25,Nokia,Feature phone,switch,Rupee
+2025-07-08,Samsung,Feature phone,visa,Yuan Renminbi
+2025-09-09,Samsung,Feature phone,mastercard,Euro
+2025-06-27,Xiaomi,Android 9.0,jcb,Koruna
+2026-01-20,Motorola,Feature phone,jcb,Euro
+2025-11-17,Xiaomi,"Android 6.0.1, MIUI 10",jcb,Dollar
+2025-03-28,Micromax,Android 4.0.4,jcb,Tenge
+2025-08-20,Philips,Feature phone,jcb,Peso
+2025-03-01,Nokia,"Symbian 9.2, S60 rel. 3.1",jcb,Yen
+2025-08-07,verykool,Android 4.4.2,china-unionpay,Shekel
+2025-11-26,Micromax,Android 2.3.6,jcb,Rupiah
+2025-12-31,LG,Feature phone,americanexpress,Yen
+2025-07-24,Sony,"Android 5.1.1, up to 7.1.1",jcb,Ruble
+2025-05-14,Sagem,Feature phone,china-unionpay,Yuan Renminbi
+2025-12-09,Samsung,Feature phone,china-unionpay,Euro
+2025-09-23,Sony,Feature phone,jcb,Euro
+2025-09-25,Asus,Android 4.4,jcb,Peso
+2025-12-16,Apple,"watchOS 6.0, up to 7.6",visa-electron,Ringgit
+2025-09-18,NEC,Feature phone,jcb,Rupiah
+2025-09-15,NEC,Feature phone,jcb,Euro
+2025-02-20,Samsung,Android 1.5/ 2.1,jcb,Yuan Renminbi
+2026-01-15,BLU,Android 4.4.2,mastercard,Real
+2025-08-19,i-mobile,Feature phone,americanexpress,Dollar
+2025-02-19,Lava,Android 7.0,diners-club-enroute,Yuan Renminbi
+2025-07-09,Plum,Android 4.2,americanexpress,Rupee
+2025-07-05,Nokia,Feature phone,maestro,Real
+2025-05-31,Karbonn,Feature phone,jcb,Ruble
+2025-04-15,Sagem,Microsoft Windows PocketPC,jcb,Yuan Renminbi
+2026-01-17,Samsung,"Android 10, up to Android 11, One UI 3.0",maestro,Dinar
+2025-07-23,Micromax,"Android 4.4.2, up to 5.0",jcb,Yuan Renminbi
+2025-08-16,Maxwest,Android 4.4,china-unionpay,Yuan Renminbi
+2025-01-25,Spice,Android 4.4,visa-electron,Dollar
+2025-07-24,Asus,"Android 5.0, up to 6.0, ZenUI",laser,Peso
+2025-02-22,Samsung,Android 2.2,switch,Yuan Renminbi
+2025-06-29,Micromax,Android 4.4.2,jcb,Yuan Renminbi
+2025-03-23,Plum,Android 7.0,mastercard,Dollar
+2025-02-11,Nokia,Feature phone,jcb,Dollar
+2025-12-09,ZTE,Android 9.0,china-unionpay,Yuan Renminbi
+2025-11-12,Samsung,Feature phone,mastercard,Ruble
+2025-02-12,Microsoft,Feature phone,diners-club-carte-blanche,Shilling
+2025-10-09,Samsung,"Android 6.0.1, TouchWiz UI",mastercard,Yuan Renminbi
+2025-04-03,Yezz,Feature phone,maestro,Peso
+2025-03-27,verykool,"Android 4.4.2, up to 5.0",jcb,Rupiah
+2025-02-09,BenQ,Feature phone,visa-electron,Shekel
+2025-11-06,Samsung,Feature phone,maestro,Yuan Renminbi
+2025-03-15,ZTE,"Android 10, nubia UI 8.0",jcb,Dollar
+2025-04-29,Huawei,"Android 10, EMUI 10.1",diners-club-us-ca,Euro
+2026-01-17,Fujitsu,Microsoft Windows Mobile 5.0 Phone Edition,jcb,Euro
+2025-04-13,Gionee,Android 4.2,mastercard,Quetzal
+2025-07-11,Samsung,Feature phone,jcb,Yuan Renminbi
+2025-02-04,Allview,"Android 4.2, up to 4.4.2",diners-club-enroute,Yuan Renminbi
+2025-02-08,Huawei,"Android 9.0, up to Android 10, EMUI 10.0",maestro,Rupiah
+2025-09-16,Xiaomi,"Android 4.2, up to 4.4.4, MIUI 9.2",jcb,Ruble
+2025-04-08,Motorola,"Android 3.0, 4.1.2, not up to 4.2",jcb,Tugrik
+2025-03-02,Intex,Android 5.0,jcb,Hryvnia
+2025-08-19,Lenovo,Android 4.1,americanexpress,Euro
+2025-11-07,Vodafone,Feature phone,maestro,Rupiah
+2025-09-06,Sagem,Feature phone,switch,Yuan Renminbi
+2025-09-23,Micromax,Android 5.1,jcb,Yuan Renminbi
+2025-12-20,Samsung,Feature phone,visa-electron,Real
+2025-12-03,Micromax,"Android 7.1.2, up to Android 8.0",maestro,Rupiah
+2025-07-23,Samsung,Feature phone,jcb,Franc
+2025-10-05,Nokia,"Android 7.1.1, up to Android 9.0",mastercard,Peso
+2025-03-28,Huawei,"Android 9.0, EMUI 9.1",jcb,Dollar
+2025-05-19,Huawei,"Android 9.0, EMUI 9.0",jcb,Peso
+2025-04-01,Sagem,Feature phone,jcb,Hryvnia
+2025-04-11,Bird,Feature phone,jcb,Dong
+2025-11-05,Motorola,Feature phone,diners-club-us-ca,Naira
+2026-01-01,Sony,"Android 4.3, up to 5.1",china-unionpay,Rupiah
+2025-12-03,OnePlus,"Android 10, OxygenOS 10.0",maestro,Ruble
+2025-03-19,Spice,Android 2.3.5,maestro,Peso
+2025-08-30,LG,"Android 8.1, up to Android 10, Android One",switch,Rupiah
+2025-08-18,Samsung,Feature phone,maestro,Peso
+2025-12-19,Lenovo,Android 5.1,jcb,Dollar
+2025-02-10,Mitsubishi,Feature phone,diners-club-carte-blanche,Ruble
+2025-11-27,Samsung,Feature phone,instapayment,Ruble
+2025-12-18,Acer,Android 4.2,bankcard,Rupiah
+2025-10-27,Sony,Feature phone,visa-electron,Lempira
+2025-07-25,Huawei,Android 4.0.4,mastercard,Dram
+2025-09-26,Lenovo,Android 4.4,jcb,Lev
+2025-06-13,Sony,Feature phone,diners-club-carte-blanche,Rupiah
+2025-07-11,Sony,Feature phone,jcb,Euro
+2025-05-18,Acer,Android 4.4.2,visa,Euro
+2025-08-08,Xiaomi,"Android 10, MIUI 11",switch,Krona
+2025-11-18,Siemens,Feature phone,solo,Peso
+2025-07-02,Mitsubishi,Microsoft Windows PocketPC,jcb,Dollar
+2025-09-23,Motorola,Feature phone,jcb,Lira
+2025-09-17,alcatel,Feature phone,maestro,Baht
+2025-02-12,BlackBerry,BlackBerry OS,maestro,Dollar
+2025-06-23,QMobile,Android 4.4,visa-electron,Yuan Renminbi
+2025-05-09,BenQ-Siemens,Feature phone,jcb,Euro
+2025-10-31,Huawei,Android 2.3.6,jcb,Pound
+2025-12-25,Panasonic,Feature phone,diners-club-enroute,Dollar
+2025-01-28,BLU,Android 2.3,jcb,Dollar
+2026-01-02,verykool,Android 4.4.2,jcb,Shekel
+2025-07-05,Panasonic,Feature phone,mastercard,Yuan Renminbi
+2025-01-27,Asus,"Android 7, ZenUI 3",jcb,Real
+2025-10-23,Huawei,Android 4.0.4,maestro,Zloty
+2025-09-01,Samsung,Android 2.3.3,switch,Baht
+2025-04-11,Samsung,Feature phone,jcb,Euro
+2026-01-03,Maxwest,Android 4.2.2,mastercard,Naira
+2025-05-09,LG,Feature phone,bankcard,Yuan Renminbi
+2025-06-09,Motorola,Android 8.0 Oreo,switch,Peso
+2026-01-16,LG,Feature phone,jcb,Yuan Renminbi
+2025-05-02,Samsung,Feature phone,jcb,Ruble
+2025-11-14,Sony,"Android 4.3, up to 4.4.2, Timescape UI",visa-electron,Zloty
+2025-07-17,Samsung,"Android 2.1, up to 2.2",jcb,Yuan Renminbi
+2025-06-23,Micromax,Feature phone,jcb,Shekel
+2025-03-19,Samsung,Feature phone,jcb,Rupiah
+2025-12-15,Samsung,Feature phone,jcb,Euro
+2025-05-09,HTC,Android 10,visa,Yuan Renminbi
+2025-10-30,BLU,Android 4.2,china-unionpay,Pound
+2025-08-18,ZTE,Feature phone,jcb,Ruble
+2025-06-02,Motorola,Android 10,visa-electron,Peso
+2025-08-29,Pantech,Feature phone,mastercard,Zloty
+2025-02-04,Micromax,Android 2.2,americanexpress,Dirham
+2025-04-06,HTC,Microsoft Windows Phone 8,jcb,Rial
+2025-12-18,Samsung,"Android 4.4, TouchWiz UI",visa,Peso
+2025-06-20,LG,Feature phone,jcb,Yuan Renminbi
+2026-01-09,Allview,Android 7.0,solo,Lempira
+2025-03-01,alcatel,"Android 4.2.2, up to 5.0",visa-electron,Yuan Renminbi
+2025-06-25,Parla,Feature phone,china-unionpay,Yuan Renminbi
+2025-05-07,LG,Feature phone,jcb,Rupiah
+2025-05-03,HTC,"Android 4.2.2, up to 5.0, Sense UI",jcb,Ruble
+2025-11-29,XOLO,Android 4.2,jcb,Euro
+2025-11-12,Sagem,Feature phone,diners-club-enroute,Zloty
+2025-06-27,vivo,"Android 5.1, Funtouch 2.1",jcb,Real
+2025-12-30,BlackBerry,"BlackBerry OS 5, up",jcb,Peso
+2025-07-12,Acer,Android 4.4.2,diners-club-carte-blanche,Rupiah
+2025-12-05,Yezz,Android 4.2,china-unionpay,Rial
+2025-04-18,Prestigio,Android 4.2,jcb,Peso
+2025-04-13,O2,Microsoft Windows Mobile 6.1 Professional,americanexpress,Yuan Renminbi
+2025-11-10,Samsung,"Android 4.3, up to 4.4.2, up to 5.0",visa,Zloty
+2025-09-26,Motorola,"Android 8.0, Android One",maestro,Krona
+2026-01-17,Telit,Feature phone,jcb,Yuan Renminbi
+2025-07-12,Yezz,Android 2.3,maestro,Euro
+2025-03-23,ZTE,Android 6.0,jcb,Rupiah
+2025-07-22,BLU,Android 8.1 Oreo,americanexpress,Krona
+2025-04-14,Samsung,Feature phone,china-unionpay,Real
+2025-02-05,Xiaomi,"Android 5.0, MIUI 6",jcb,Yuan Renminbi
+2025-04-13,Realme,"Android 9.0, up to Android 10, Realme UI",jcb,Yen
+2025-01-22,Orange,Feature phone,visa-electron,Ruble
+2025-05-17,Plum,Android 2.3.1,mastercard,Ruble
+2025-10-21,Lenovo,Android 5.0.2,jcb,Euro
+2025-04-18,Spice,Android 2.2,maestro,Yuan Renminbi
+2025-08-29,Sony,"Android 2.3, up to 4.0",bankcard,Rupiah
+2025-09-03,Nokia,"Symbian 9.4, Series 60 rel. 5",china-unionpay,Yuan Renminbi
+2025-11-01,Motorola,Android 10,bankcard,Yuan Renminbi
+2025-05-25,Lava,Android 2.3,diners-club-enroute,Ruble
+2025-05-30,LG,Android 4.4.2,switch,Euro
+2025-10-18,HTC,"Android 5.1.1, up to 6.0.1, Sense UI 7",instapayment,Pound
+2025-02-12,Karbonn,Android 4.0,maestro,Real
+2025-04-07,T-Mobile,Danger 4.7,china-unionpay,Zloty
+2026-01-21,Ulefone,"Android 10, planned upgrade to Android 11",jcb,Krona
+2025-11-25,Micromax,Feature phone,jcb,Rupiah
+2025-03-18,Motorola,Feature phone,diners-club-enroute,Hryvnia
+2025-11-30,Samsung,Feature phone,maestro,Euro
+2025-10-13,T-Mobile,Feature phone,visa,Boliviano
+2025-09-05,HTC,"Android 4.4.2, up to 4.4.4, Sense UI 6",instapayment,Peso
+2025-11-24,ZTE,Feature phone,jcb,Yuan Renminbi
+2025-05-10,Asus,"Android 6.0, up to 7.0",switch,Peso
+2025-09-03,Yezz,Android 4.2,jcb,Tugrik
+2025-06-02,Nokia,Feature phone,bankcard,Peso
+2025-02-18,Asus,Android 4.3,americanexpress,Euro
+2025-11-11,Gigabyte,Microsoft Windows Mobile 6.0 Professional,bankcard,Zloty
+2025-04-13,Samsung,"Android 2.1, up to 2.3",jcb,Shekel
+2025-05-08,Motorola,Feature phone,laser,Ariary
+2025-02-10,Honor,"Android 10, Magic UI 3.1",visa,Rupiah
+2025-07-13,Honor,"Android 10, Magic UI 3.1",jcb,Yuan Renminbi
+2025-12-03,Huawei,Feature phone,jcb,Euro
+2025-10-24,Samsung,"Android 6.0.1, up to Android 8.1",mastercard,Rupee
+2025-04-14,Nokia,Feature phone,jcb,Ruble
+2025-09-26,BlackBerry,BlackBerry Tablet OS,jcb,Peso
+2025-12-09,Samsung,Microsoft Windows Mobile 6.1 Professional,mastercard,Real
+2025-02-19,Samsung,"Android 9.0, up to Android 11, One UI 3.0",americanexpress,Euro
+2025-05-16,alcatel,Feature phone,jcb,Euro
+2025-06-27,i-mate,Microsoft Windows Mobile 6.0 Professional,jcb,Euro
+2025-03-04,Google,"Android 9.0, up to Android 11",switch,Euro
+2026-01-21,Infinix,"Android 10, XOS 6.0",visa-electron,Som
+2025-04-24,Samsung,Feature phone,solo,Yuan Renminbi
+2025-11-06,Vodafone,Android 8.1,jcb,Ruble
+2025-08-13,Huawei,"Android 8.0, up to Android 10, EMUI 10.2",jcb,Ruble
+2025-11-05,Samsung,Feature phone,americanexpress,Euro
+2025-11-16,Vodafone,Feature phone,maestro,Koruna
+2025-06-04,Allview,Android 9.0,americanexpress,Yuan Renminbi
+2025-06-21,Micromax,Android 4.4.2,jcb,Yuan Renminbi
+2025-10-15,Samsung,Android 2.3.5,diners-club-us-ca,Peso
+2025-05-11,HTC,"Android 6.0, Sense UI",jcb,Euro
+2025-06-30,Xiaomi,"Android 10, MIUI 12",jcb,Euro
+2025-12-24,Micromax,Android 4.2.2,diners-club-carte-blanche,Euro
+2025-04-01,Eten,Microsoft Windows Mobile 5.0 PocketPC,diners-club-carte-blanche,Yuan Renminbi
+2025-09-14,Samsung,"Android 4.1.2, TouchWiz UX UI",laser,Euro
+2025-07-12,alcatel,Feature phone,jcb,Euro
+2025-02-15,Telit,Feature phone,visa-electron,Naira
+2025-11-25,Nokia,Feature phone,diners-club-enroute,Peso
+2025-07-01,Bird,Feature phone,switch,Euro
+2025-05-12,Gionee,"Android 7, Amigo 4",jcb,Peso
+2025-09-17,Bird,Feature phone,diners-club-carte-blanche,Dollar
+2025-05-03,Samsung,Feature phone,mastercard,Yuan Renminbi
+2025-12-17,QMobile,Android 4.4,visa,Peso
+2025-07-15,LG,Feature phone,jcb,Rupiah
+2025-05-23,Oppo,"Android 10, ColorOS 7.2",bankcard,Dollar
+2025-08-19,Philips,Feature phone,switch,Ruble
+2025-03-29,Xiaomi,"Android 8.1, planned upgrade to 10, MIUI 12",bankcard,Euro
+2025-10-11,BlackBerry,BlackBerry OS,jcb,Krona
+2025-04-09,Xiaomi,"Android 8.0, MIUI 9",bankcard,Naira
+2025-03-18,Nokia,Feature phone,diners-club-enroute,Yuan Renminbi
