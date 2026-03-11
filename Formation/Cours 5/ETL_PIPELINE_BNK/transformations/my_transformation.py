@@ -56,5 +56,4 @@ def users_bank():
       .withColumnRenamed("bnk_city", "bank_city")
       .withColumnRenamed("bnk_cc", "bank_country_code")
       .select("id", "bank_name", "bank_street_address", "bank_city", "bank_country_code")
-  )
-
+)
