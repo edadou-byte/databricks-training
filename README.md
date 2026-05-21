@@ -54,7 +54,6 @@ Each notebook folder includes a `Resources/` subfolder with datasets (CSV, JSON,
 ## Prerequisites
 
 - A **Databricks workspace** (Community Edition or any paid tier)
-- OR **GitHub Codespaces** (see section below for local-free usage)
 - Git installed locally if you plan to clone
 
 ---
